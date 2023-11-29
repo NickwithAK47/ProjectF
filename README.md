@@ -1,3 +1,3 @@
 # ProjectF
-   Testing Git
+   Github for CIS 111B
  
